@@ -1,0 +1,65 @@
+srap_datetime,game_date,game_time,home,away,home_pick,away_pick,rl_home_percentage,rl_away_percentage
+2016-12-19 14:22:00.333740,20161215,8:25pm,Los Angeles Rams,Seattle Seahawks,10175,11821,46%,54%
+2016-12-19 14:22:00.333740,20161215,8:25pm,Seattle Seahawks,Los Angeles Rams,11821,10175,54%,46%
+2016-12-19 14:22:22.470877,20161217,8:25pm,Miami Dolphins,N.Y. Jets,13378,7992,63%,37%
+2016-12-19 14:22:22.470877,20161217,8:25pm,N.Y. Jets,Miami Dolphins,7992,13378,37%,63%
+2016-12-19 14:22:34.252278,20161218,1:00pm,Detroit Lions,N.Y. Giants,9261,8214,53%,47%
+2016-12-19 14:22:34.252278,20161218,1:00pm,N.Y. Giants,Detroit Lions,8214,9261,47%,53%
+2016-12-19 14:22:34.254280,20161218,1:00pm,Philadelphia Eagles,Baltimore Ravens,3777,11269,25%,75%
+2016-12-19 14:22:34.254280,20161218,1:00pm,Baltimore Ravens,Philadelphia Eagles,11269,3777,75%,25%
+2016-12-19 14:22:34.256281,20161218,1:00pm,Green Bay Packers,Chicago Bears,15663,3595,81%,19%
+2016-12-19 14:22:34.256281,20161218,1:00pm,Chicago Bears,Green Bay Packers,3595,15663,19%,81%
+2016-12-19 14:22:34.258281,20161218,1:00pm,Indianapolis Colts,Minnesota Vikings,6175,6257,50%,50%
+2016-12-19 14:22:34.258281,20161218,1:00pm,Minnesota Vikings,Indianapolis Colts,6257,6175,50%,50%
+2016-12-19 14:22:34.260284,20161218,1:00pm,Cleveland Browns,Buffalo Bills,3877,9057,30%,70%
+2016-12-19 14:22:34.260284,20161218,1:00pm,Buffalo Bills,Cleveland Browns,9057,3877,70%,30%
+2016-12-19 14:22:34.264287,20161218,1:00pm,Tennessee Titans,Kansas City Chiefs,6974,9139,43%,57%
+2016-12-19 14:22:34.264287,20161218,1:00pm,Kansas City Chiefs,Tennessee Titans,9139,6974,57%,43%
+2016-12-19 14:22:34.266288,20161218,1:00pm,Jacksonville Jaguars,Houston Texans,2404,10036,19%,81%
+2016-12-19 14:22:34.266288,20161218,1:00pm,Houston Texans,Jacksonville Jaguars,10036,2404,81%,19%
+2016-12-19 14:22:34.268289,20161218,1:00pm,Pittsburgh Steelers,Cincinnati Bengals,12119,3651,77%,23%
+2016-12-19 14:22:34.268289,20161218,1:00pm,Cincinnati Bengals,Pittsburgh Steelers,3651,12119,23%,77%
+2016-12-19 14:22:34.270289,20161218,4:05pm,New Orleans Saints,Arizona Cardinals,5320,7467,42%,58%
+2016-12-19 14:22:34.270289,20161218,4:05pm,Arizona Cardinals,New Orleans Saints,7467,5320,58%,42%
+2016-12-19 14:22:34.272291,20161218,4:05pm,San Francisco 49ers,Atlanta Falcons,4992,13728,27%,73%
+2016-12-19 14:22:34.272291,20161218,4:05pm,Atlanta Falcons,San Francisco 49ers,13728,4992,73%,27%
+2016-12-19 14:22:34.275295,20161218,4:25pm,New England Patriots,Denver Broncos,14774,4361,77%,23%
+2016-12-19 14:22:34.275295,20161218,4:25pm,Denver Broncos,New England Patriots,4361,14774,23%,77%
+2016-12-19 14:22:34.277296,20161218,4:25pm,Oakland Raiders,San Diego Chargers,15174,4135,79%,21%
+2016-12-19 14:22:34.277296,20161218,4:25pm,San Diego Chargers,Oakland Raiders,4135,15174,21%,79%
+2016-12-19 14:22:34.279296,20161218,8:30pm,Tampa Bay Buccaneers,Dallas Cowboys,16858,13138,56%,44%
+2016-12-19 14:22:34.279296,20161218,8:30pm,Dallas Cowboys,Tampa Bay Buccaneers,13138,16858,44%,56%
+2016-12-19 14:22:45.417327,20161219,8:30pm,Carolina Panthers,Washington Redskins,7838,6716,54%,46%
+2016-12-19 14:22:45.417327,20161219,8:30pm,Washington Redskins,Carolina Panthers,6716,7838,46%,54%
+2016-12-19 14:28:48.332536,20161215,8:25pm,Los Angeles Rams,Seattle Seahawks,10175,11821,46%,54%
+2016-12-19 14:28:48.332536,20161215,8:25pm,Seattle Seahawks,Los Angeles Rams,11821,10175,54%,46%
+2016-12-19 14:29:11.178017,20161217,8:25pm,Miami Dolphins,N.Y. Jets,13378,7992,63%,37%
+2016-12-19 14:29:11.178017,20161217,8:25pm,N.Y. Jets,Miami Dolphins,7992,13378,37%,63%
+2016-12-19 14:29:40.982576,20161218,1:00pm,Detroit Lions,N.Y. Giants,9261,8214,53%,47%
+2016-12-19 14:29:40.982576,20161218,1:00pm,N.Y. Giants,Detroit Lions,8214,9261,47%,53%
+2016-12-19 14:29:40.984578,20161218,1:00pm,Philadelphia Eagles,Baltimore Ravens,3777,11269,25%,75%
+2016-12-19 14:29:40.984578,20161218,1:00pm,Baltimore Ravens,Philadelphia Eagles,11269,3777,75%,25%
+2016-12-19 14:29:40.986580,20161218,1:00pm,Green Bay Packers,Chicago Bears,15663,3595,81%,19%
+2016-12-19 14:29:40.986580,20161218,1:00pm,Chicago Bears,Green Bay Packers,3595,15663,19%,81%
+2016-12-19 14:29:40.989582,20161218,1:00pm,Indianapolis Colts,Minnesota Vikings,6175,6257,50%,50%
+2016-12-19 14:29:40.989582,20161218,1:00pm,Minnesota Vikings,Indianapolis Colts,6257,6175,50%,50%
+2016-12-19 14:29:40.990581,20161218,1:00pm,Cleveland Browns,Buffalo Bills,3877,9057,30%,70%
+2016-12-19 14:29:40.990581,20161218,1:00pm,Buffalo Bills,Cleveland Browns,9057,3877,70%,30%
+2016-12-19 14:29:40.994585,20161218,1:00pm,Tennessee Titans,Kansas City Chiefs,6974,9139,43%,57%
+2016-12-19 14:29:40.994585,20161218,1:00pm,Kansas City Chiefs,Tennessee Titans,9139,6974,57%,43%
+2016-12-19 14:29:40.996587,20161218,1:00pm,Jacksonville Jaguars,Houston Texans,2404,10036,19%,81%
+2016-12-19 14:29:40.996587,20161218,1:00pm,Houston Texans,Jacksonville Jaguars,10036,2404,81%,19%
+2016-12-19 14:29:40.998588,20161218,1:00pm,Pittsburgh Steelers,Cincinnati Bengals,12119,3651,77%,23%
+2016-12-19 14:29:40.998588,20161218,1:00pm,Cincinnati Bengals,Pittsburgh Steelers,3651,12119,23%,77%
+2016-12-19 14:29:41.000589,20161218,4:05pm,New Orleans Saints,Arizona Cardinals,5320,7467,42%,58%
+2016-12-19 14:29:41.000589,20161218,4:05pm,Arizona Cardinals,New Orleans Saints,7467,5320,58%,42%
+2016-12-19 14:29:41.002590,20161218,4:05pm,San Francisco 49ers,Atlanta Falcons,4992,13728,27%,73%
+2016-12-19 14:29:41.002590,20161218,4:05pm,Atlanta Falcons,San Francisco 49ers,13728,4992,73%,27%
+2016-12-19 14:29:41.004591,20161218,4:25pm,New England Patriots,Denver Broncos,14774,4361,77%,23%
+2016-12-19 14:29:41.004591,20161218,4:25pm,Denver Broncos,New England Patriots,4361,14774,23%,77%
+2016-12-19 14:29:41.007595,20161218,4:25pm,Oakland Raiders,San Diego Chargers,15174,4135,79%,21%
+2016-12-19 14:29:41.007595,20161218,4:25pm,San Diego Chargers,Oakland Raiders,4135,15174,21%,79%
+2016-12-19 14:29:41.009595,20161218,8:30pm,Tampa Bay Buccaneers,Dallas Cowboys,16858,13138,56%,44%
+2016-12-19 14:29:41.009595,20161218,8:30pm,Dallas Cowboys,Tampa Bay Buccaneers,13138,16858,44%,56%
+2016-12-19 14:29:51.806812,20161219,8:30pm,Carolina Panthers,Washington Redskins,7841,6720,54%,46%
+2016-12-19 14:29:51.806812,20161219,8:30pm,Washington Redskins,Carolina Panthers,6720,7841,46%,54%
